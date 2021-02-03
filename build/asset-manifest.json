@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/redux-boiler-plate/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/redux-boiler-plate/static/js/main.0d015505.chunk.js",
+    "main.js.map": "/redux-boiler-plate/static/js/main.0d015505.chunk.js.map",
+    "runtime-main.js": "/redux-boiler-plate/static/js/runtime-main.46339069.js",
+    "runtime-main.js.map": "/redux-boiler-plate/static/js/runtime-main.46339069.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/redux-boiler-plate/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.13f201d3.chunk.js": "/redux-boiler-plate/static/js/2.13f201d3.chunk.js",
+    "static/js/2.13f201d3.chunk.js.map": "/redux-boiler-plate/static/js/2.13f201d3.chunk.js.map",
+    "index.html": "/redux-boiler-plate/index.html",
+    "precache-manifest.64eac9eea37163c0cf21172ae1ba3254.js": "/redux-boiler-plate/precache-manifest.64eac9eea37163c0cf21172ae1ba3254.js",
+    "service-worker.js": "/redux-boiler-plate/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/redux-boiler-plate/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/redux-boiler-plate/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.13f201d3.chunk.js.LICENSE.txt": "/redux-boiler-plate/static/js/2.13f201d3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46339069.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.13f201d3.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.0d015505.chunk.js"
+  ]
+}

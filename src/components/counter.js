@@ -8,7 +8,7 @@ const Counter = (props) => {
         <div className="container text-center">
             <h1>Counter</h1>
             <h1>{props.count}</h1>
-            <button className="btn btn-outline-warning d-block mx-auto mb-3" onClick={() => { props.incrementCount() }}>Increment</button>
+            <button className="btn btn-outline-success d-block mx-auto mb-3" onClick={() => { props.incrementCount() }}>Increment</button>
             <button className="btn btn-outline-danger d-block mx-auto" onClick={() => { props.decrementCount() }}>Decrement</button>
         </div>
     );
