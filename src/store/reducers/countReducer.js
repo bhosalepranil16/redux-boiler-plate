@@ -1,4 +1,4 @@
-import { INCREMENT, DECREMENT } from '../actions/countAction';
+import { INCREMENT, DECREMENT, ASYNCINCREMENT, ASYNCDECREMENT } from '../actions/countAction';
 
 const initialState = {
     count : 0
@@ -20,6 +20,19 @@ const reducer = (state = initialState, action) => {
                 ...state,
                 count : newCount
             }
+        case ASYNCINCREMENT :
+            newCount = state.count + 1;
+            return {
+                ...state,
+                count : newCount
+            }
+        case ASYNCDECREMENT :
+            newCount = state.count - 1;
+            return {
+                ...state,
+                count : newCount
+            }
+
         default : 
             return state;
     }
